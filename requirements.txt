@@ -1,0 +1,22 @@
+# Web Backend
+fastapi==0.104.1
+uvicorn==0.24.0.post1
+python-multipart==0.0.6
+
+# Deep Learning
+torch==2.1.2
+torchvision==0.16.2
+numpy==1.26.2
+
+# Image Processing
+opencv-python-headless==4.8.1.78
+Pillow==10.1.0
+
+# Explainability
+grad-cam==1.4.8
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.2
+pydantic-settings==2.1.0
+huggingface_hub==0.20.1
