@@ -1,12 +1,4 @@
----
-title: DeepVault API
-emoji: 🛡️
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-app_port: 8000
-pinned: false
----
+
 
 # 🛡️ DeepVault: [deployed here](https://deep-vault.vercel.app)
 
