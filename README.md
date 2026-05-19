@@ -8,7 +8,7 @@ app_port: 8000
 pinned: false
 ---
 
-# 🛡️ DeepVault: [Advanced Deepfake Image Detection System](https://deep-vault.vercel.app)
+# 🛡️ DeepVault: [deployed here](https://deep-vault.vercel.app)
 
 [![Python Version](https://img.shields.io/badge/Python-3.11+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
